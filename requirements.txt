@@ -42,7 +42,7 @@ gevent==1.4.0
 google-auth-oauthlib==0.4.1
 google-auth==1.7.1
 greenlet==0.4.15 ; platform_python_implementation == 'CPython'
-grpcio==1.25.0
+grpcio==1.53.2
 h5py==2.10.0
 idna==2.8
 imagesize==1.1.0
