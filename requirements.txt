@@ -33,7 +33,7 @@ docutils==0.15.2
 ecdsa==0.14.1
 editdistance==0.5.3
 flaky==3.6.1
-flask-cors==3.0.8
+flask-cors==3.0.9
 flask==1.1.1
 ftfy==5.6
 future==0.18.2
